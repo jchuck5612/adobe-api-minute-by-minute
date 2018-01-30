@@ -1,0 +1,1 @@
+# adobe-api-minute-by-minute
